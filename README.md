@@ -4,4 +4,6 @@ i will be doing further changes in this website to make it my own and also will 
 
 
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/2de46c00-5818-4e94-be13-a5b24fe4b3a8" />
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/fef441c6-9dd9-4e5f-8db2-a77d74cbf9dd" />
+
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/f07c71a2-db4a-4704-80ac-aabded102503" />
